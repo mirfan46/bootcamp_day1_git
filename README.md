@@ -1,7 +1,7 @@
 # bootcamp_day1_git
 # My cv
-## Bagus Wisanggeni
+## Muhammad Irfan
 ### Data Diri
-- Nama : Bagus Wisanggeni
-- TTL  : Lumajang, 04/08/1997
+- Nama : Muhammad Irfan
+- TTL  : Kulon Progo, 13/10/1997
 ### Frontend Developer Wannabe xD
